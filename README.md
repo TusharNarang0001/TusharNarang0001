@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/Servlets/MVC/Linux/Shell-Scripting/UML
 - 🌱 I’m currently learning AEM-6.5/4/3
 - 💞️ I’m looking to collaborate on Java based Projects/Linux
-- 📫 How to reach me tusharnarang0001@gmail.com/+91-989-6516-152
+- 📫 How to reach me tusharnarang0001@gmail.com  / narangtushar1000@gmail.com /+91-989-6516-152
 
 <!---
 TusharNarang0001/TusharNarang0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
